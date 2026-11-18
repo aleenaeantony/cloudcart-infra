@@ -35,3 +35,4 @@ credentials
 # OS
 .DS_Store
 Thumbs.db
+envs/production/iam/iam-state-backup.json
